@@ -13,4 +13,4 @@ the plus sign is to stage a file
 
 to embed another md file:
 
-* [see (name of file)](filename.md)
+[see (newjawn)](newjawn.md)
