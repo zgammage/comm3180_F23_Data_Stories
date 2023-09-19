@@ -9,4 +9,8 @@ each repository has github pages which is an html rendering of your files
 
 easy way to throw up a website for a project and will give your username.github.io 
 
-bruh
+the plus sign is to stage a file 
+
+to embed another md file:
+
+* [see (name of file)](filename.md)
